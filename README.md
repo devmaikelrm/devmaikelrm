@@ -62,11 +62,25 @@ Lidero:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=devmaikelrm&theme=radical" alt="WakaTime stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devmaikelrm&theme=radical" alt="GitHub Activity Graph" />
 </p>
 
+---
+
+### 🔧 Actualmente Construyendo
+- 🚀 **BarberBot v2.0** - Versión mejorada con IA y nuevas funcionalidades.
+- 🌐 **CubaModel API** - API pública para compatibilidad móvil en Cuba.
+- 🤖 **CitaConsulares AI** - Integración avanzada con modelos de IA para automatización.
+
+### 🛠️ Herramientas Favoritas
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=devmaikelrm&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=00FFFF&bar_color_cover=false" alt="Spotify now playing" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-FF6B35?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
 ---
