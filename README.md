@@ -3,12 +3,15 @@
   <img src="./banner.png" alt="devmaikelrm banner" />
 </p>
 
-<h1 align="center">👋 Hola, soy <span style="color:#00ffff;">Maikel Reyes Morales</span></h1>
-<h3 align="center">🧠 Fullstack Developer & Automation Entrepreneur</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=940&lines=👋+Hola,+soy+Maikel+Reyes+Morales;🧠+Fullstack+Developer+%26+Automation+Entrepreneur;⚙️+Automatizo+ideas+para+proyectos+reales" alt="Typing SVG" />
+</h1>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/From-🇨🇺%20Cuba%20to%20🇺🇾%20Uruguay-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Building-Bots%20%26%20IA-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/From-🇨🇺%20Cuba%20to%20🇺🇾%20Uruguay-00FFFF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Building-Bots%20%26%20IA-00FF00?style=flat-square" />
   <img src="https://img.shields.io/badge/Status-Always%20Coding%20💻-brightgreen?style=flat-square" />
+  <img src="https://visitor-badge.glitch.me/badge?page_id=devmaikelrm.devmaikelrm" />
 </p>
 
 ---
@@ -44,7 +47,7 @@ Lidero:
 
 ### 🌍 Encuéntrame
 <p align="center">
-  <a href="https://linkedin.com/in/devmaikelrm"><img src="https://img.shields.io/badge/LinkedIn-Maikel%20Reyes%20Morales-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://linkedin.com/in/devmaikelrm"><img src="https://img.shields.io/badge/LinkedIn-Maikel%20Reyes%20Morales-00FFFF?style=for-the-badge&logo=linkedin"></a>
   <a href="https://github.com/devmaikelrm"><img src="https://img.shields.io/badge/GitHub-devmaikelrm-black?style=for-the-badge&logo=github"></a>
   <a href="https://t.me/Ser_travieso"><img src="https://img.shields.io/badge/Telegram-@Ser_travieso-2CA5E0?style=for-the-badge&logo=telegram"></a>
 </p>
@@ -53,5 +56,30 @@ Lidero:
   <img src="https://github-readme-stats.vercel.app/api?username=devmaikelrm&show_icons=true&theme=radical" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmaikelrm&layout=compact&theme=radical" height="150" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devmaikelrm&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=devmaikelrm&theme=radical" alt="WakaTime stats" />
+</p>
+
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=devmaikelrm&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=00FFFF&bar_color_cover=false" alt="Spotify now playing" />
+</p>
+
+---
+
+### 🏆 Certificaciones
+- Supabase Fundamentals
+- JaP (JavaScript Algorithms and Data Structures)
+- Más próximamente...
+
+### 📄 Descargas
+- [CV/Resume](https://link-to-cv.com)
+- [Portfolio](https://cutflowbot.store)
+
+---
 
 > _“Automatizo ideas para convertirlas en proyectos reales.”_ ⚙️🤖
